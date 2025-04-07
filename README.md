@@ -4,7 +4,7 @@
 
 ### <img src="https://github.com/DEV-Sithu/DEV-Sithu/blob/main/img/katto.gif" width="40">   A little more about me...  
 ```javascript
-const Lwin = {
+const DEV-Sithu = {
   code: [Javascript, Typescript, HTML, CSS, PHP],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest],
   architecture: ["Microservices", "Event-Driven", "Design System Pattern"],
