@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEV-MK
 - 👀 I’m interested in Jackpack Compose
-- 🌱 I’m currently learning  Backend language
+- 🌱 I’m currently learning Jackpack Compose and  English language 
 
 ### <img src="https://github.com/DEV-Sithu/DEV-Sithu/blob/main/gitto.gif" width="40">   A little more about me...  
 ```javascript
