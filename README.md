@@ -5,6 +5,9 @@ const DEV-Sithu = {
   language: [Burmese, English],
 }
 ```
+
+![Profile Views](https://komarev.com/ghpvc/?username=DEV-Sithu&color=blue)
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p>
