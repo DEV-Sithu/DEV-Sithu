@@ -15,6 +15,3 @@ const DEV-Sithu = {
 </p>
 
 
-## :trophy: Github Awards
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DEV-Sithu&theme=onedark)](https://github.com/DEV-Sithu/)
